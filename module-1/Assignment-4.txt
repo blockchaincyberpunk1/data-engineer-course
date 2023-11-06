@@ -1,0 +1,39 @@
+Data Warehouse Schema Design
+
+Objective: To understand data warehousing concepts through practical schema design.
+
+Task:
+
+Introduction to Data Warehousing:
+
+Begin by introducing the concept of data warehousing and its importance in business intelligence and data analytics.
+Scenario and Sample Data:
+
+Present a fictional scenario: Students are tasked with designing a data warehouse schema for a hypothetical e-commerce company, "TechGadgets Inc."
+Provide sample data related to sales transactions, customer information, product details, and order history. Ensure that the data includes various data types, such as numeric, date, text, and categorical data.
+Schema Design:
+
+Instruct students to design the data warehouse schema for TechGadgets Inc. This should include creating tables, defining relationships (e.g., primary keys, foreign keys), and specifying data types for each attribute.
+Encourage students to consider dimensions and fact tables, as well as the granularity of data.
+Rationale and Documentation:
+
+Ask students to provide a detailed rationale for their schema design choices. Why did they choose specific tables, relationships, and data types?
+Include explanations for how their schema supports the analytical needs of the e-commerce company.
+SQL Implementation (Optional):
+
+For an advanced version of the assignment, students can implement their schema design in SQL. They should create the necessary tables, populate them with sample data, and write example SQL queries that showcase the usefulness of their schema for analytical purposes.
+Presentation or Report:
+
+Students can choose to either present their schema design to the class or submit a written report. The presentation should include visual representations of the schema, while the report should include text explanations.
+Peer Review and Discussion:
+
+Encourage students to provide constructive feedback on their peers' schema designs during presentations or within written reports. This fosters discussion and collaborative learning.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the data warehouse schema design.
+Justification and rationale for schema design choices.
+Consideration of dimensions and fact tables for effective data analysis.
+Quality of documentation and presentation (if applicable).
+Integration of sample data into the schema (if applicable).

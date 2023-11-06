@@ -1,0 +1,54 @@
+ETL Pipeline Design
+
+Objective: To design an ETL (Extract, Transform, Load) pipeline.
+
+Task:
+
+Introduction to ETL Pipelines:
+
+Provide an introduction to ETL pipelines and their significance in data integration and processing.
+Choice of ETL Tool or Framework:
+
+Allow students to choose an ETL tool or framework of their choice for this assignment. Examples include Apache NiFi, Apache Airflow, Talend, or any other relevant ETL tool.
+ETL Pipeline Design Task:
+
+Instruct students to design a simple ETL pipeline using the selected tool or framework. The pipeline should include the following components:
+Source(s): Specify the source(s) from which data will be extracted. This can be a database, file system, API, or any other data source.
+Transformations: Define the data transformations that will be applied to the extracted data. This may include cleaning, filtering, aggregating, or enriching the data.
+Destination(s): Identify the destination(s) where the transformed data will be loaded. This can be a data warehouse, database, cloud storage, or another data repository.
+ETL Pipeline Guidelines:
+
+Provide guidelines for designing the ETL pipeline, including:
+Data Source Selection: Explain how students should choose and connect to data sources.
+Transformation Logic: Describe the types of transformations to be applied and the business rules to consider.
+Data Loading: Specify the loading mechanism and destination choices.
+High-Level Pipeline Design:
+
+Instruct students to create a high-level design or flowchart of the ETL pipeline. This should illustrate the sequence of operations, including extraction, transformations, and loading.
+Code or Configuration Snippets:
+
+If applicable, students can provide code snippets or configuration files that represent their ETL pipeline components. This demonstrates their understanding of the chosen tool or framework.
+Testing and Validation Plan (Optional):
+
+Optionally, students can outline a plan for testing and validating their ETL pipeline design. This plan should include strategies for data quality checks and validation of transformations.
+Report:
+
+Ask students to submit a written report alongside their ETL pipeline design. The report should include:
+An overview of the assignment and the chosen ETL tool or framework.
+Detailed descriptions of the ETL pipeline components, including sources, transformations, and destinations.
+High-level pipeline design or flowchart.
+Code or configuration snippets (if applicable).
+Any testing and validation plans (if included).
+Reflections on design decisions and considerations.
+Presentation (Optional):
+
+If time permits, students can present their ETL pipeline design and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the ETL pipeline design.
+Appropriateness of the chosen ETL tool or framework.
+Documentation and explanations within the report.
+Quality of the high-level pipeline design or flowchart.
+Consideration of data source, transformations, and destination choices.

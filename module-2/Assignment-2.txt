@@ -1,0 +1,49 @@
+Stream Data Processing with Apache Kafka (or Apache Flink)
+
+Objective: To explore stream processing concepts.
+
+Task:
+
+Introduction to Stream Processing:
+
+Provide an introduction to stream processing and its significance in handling real-time data.
+Selection of Stream Processing Framework:
+
+Introduce students to stream processing frameworks like Apache Kafka and Apache Flink.
+Instruct students to choose one of these frameworks for their assignment.
+Sample Data Stream:
+
+Share a sample data stream with students. The data stream should contain time-stamped records with various attributes. Ensure that it's in a format compatible with the chosen stream processing framework (e.g., Kafka topic, Flink data source).
+Stream Processing Task:
+
+Task students with implementing a stream processing application using their chosen framework.
+In the application, instruct them to:
+Ingest the sample data stream.
+Perform real-time data transformations, such as filtering, aggregation, or windowing, based on specific criteria.
+Output the processed data to a new stream or file, depending on the capabilities of the framework.
+Code Structure and Documentation:
+
+Encourage students to structure their code in a clear and organized manner.
+Require them to provide comments and documentation explaining the purpose of each section of the code, including details about the transformations performed.
+Testing and Validation:
+
+Instruct students to test their stream processing application with the provided data stream and validate the output to ensure that it meets the specified requirements.
+Report:
+
+Ask students to submit a written report alongside their stream processing application. The report should include:
+An explanation of the problem statement and requirements.
+A description of the stream processing steps and transformations applied.
+A discussion of any challenges faced during the task and how they were overcome.
+An analysis of the processed data and its significance (e.g., real-time insights gained, patterns identified).
+Presentation (Optional):
+
+If time permits, students can present their stream processing application and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the stream processing application.
+Clarity and organization of the code.
+Documentation and comments within the code.
+Quality and completeness of the written report.
+Ability to apply stream processing concepts effectively in a real-time data scenario.

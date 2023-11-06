@@ -1,0 +1,51 @@
+Spark Data Transformation
+
+Objective: To understand data transformations in Spark.
+
+Task:
+
+Introduction to Data Transformations in Spark:
+
+Provide an introduction to data transformations in Apache Spark, highlighting their importance in data processing and analytics.
+Sample Dataset:
+
+Share a sample dataset in a common format (e.g., CSV, JSON) with students. Ensure that the dataset is suitable for data transformations and contains various attributes.
+Apache Spark Data Transformation Task:
+
+Instruct students to use Apache Spark to perform data transformations on the provided dataset. They should:
+Read the dataset into an RDD (Resilient Distributed Dataset) or DataFrame.
+Apply a series of data transformations, including filtering, mapping (e.g., transforming columns), and aggregation (e.g., computing statistics).
+Write the transformed data to a new file in a chosen format (e.g., CSV, Parquet).
+Types of Transformations:
+
+Specify the types of transformations students should perform, such as:
+Filtering: Selecting specific rows based on criteria.
+Mapping: Transforming or enriching data columns.
+Aggregation: Calculating summary statistics or aggregating data based on specific attributes.
+Joining: Combining data from multiple sources if applicable.
+Code Structure and Documentation:
+
+Encourage students to structure their Spark code in a clear and organized manner.
+Require them to provide comments and documentation explaining the purpose of each section of the code, especially when applying Spark transformations and actions.
+Testing and Validation:
+
+Instruct students to test their Spark data transformation program with the provided dataset and validate the results of each transformation.
+Report:
+
+Ask students to submit a written report alongside their Spark code. The report should include:
+An explanation of the problem statement and requirements.
+A description of the Spark data transformations applied, including the rationale behind each transformation.
+A discussion of any challenges faced during the task and how they were overcome.
+An analysis of the transformed data and its significance (e.g., insights gained, patterns identified).
+Presentation (Optional):
+
+If time permits, students can present their Spark data transformation program and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the Spark data transformation program.
+Clarity and organization of the Spark code.
+Documentation and comments within the code.
+Quality and completeness of the written report.
+Ability to apply Apache Spark concepts effectively in data transformations.

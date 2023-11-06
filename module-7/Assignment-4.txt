@@ -1,0 +1,50 @@
+Data Catalog Development
+
+Objective: To build a basic data catalog.
+
+Task:
+
+Introduction to Data Catalogs:
+
+Provide an introduction to the concept of data catalogs, their significance in data management, and their role in organizing and discovering data assets.
+Data Catalog Development Scenario:
+
+Describe the scenario: Students are tasked with developing a basic data catalog for a fictional organization named "DataCatalogCo."
+Choice of Data Catalog Tool/Framework:
+
+Instruct students to choose a data catalog tool or framework for this assignment. Options include Apache Atlas, open-source alternatives, or a simplified custom solution if they have the necessary development skills.
+Catalog a Sample Dataset:
+
+Share a sample dataset (e.g., CSV, JSON, or database) with students. The dataset should contain various data assets that need to be cataloged.
+Ask students to catalog the dataset by:
+Defining metadata attributes (e.g., column names, data types, description).
+Associating data assets with relevant categories or classifications.
+Specifying ownership and access permissions.
+Metadata and Tagging:
+
+Emphasize the importance of associating metadata and tags with data assets. Instruct students to provide meaningful metadata attributes for the cataloged dataset.
+Search and Discovery:
+
+Require students to demonstrate the search and discovery capabilities of the developed data catalog. Users should be able to search for data assets based on metadata attributes, tags, or keywords.
+User-Friendly Interface:
+
+Encourage students to design a user-friendly interface for the data catalog, making it intuitive and easy to navigate.
+Documentation:
+
+Instruct students to provide comprehensive documentation, including:
+Overview of the data catalog development process.
+Description of the cataloged dataset and metadata attributes.
+Instructions for using the catalog, including search and discovery features.
+Any customization or extensions made to the chosen data catalog tool/framework.
+Presentation (Optional):
+
+If time permits, students can present their data catalog and its features to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and functionality of the developed data catalog.
+Clarity and organization of the cataloged dataset and metadata.
+Effectiveness of search and discovery features.
+User-friendliness and interface design.
+Documentation and instructions for using the catalog.

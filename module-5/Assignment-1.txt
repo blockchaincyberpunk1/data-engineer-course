@@ -1,0 +1,56 @@
+Data Source Connection
+
+Objective: To understand data source connectivity.
+
+Task:
+
+Introduction to Data Source Connectivity:
+
+Provide an introduction to data source connectivity and its importance in data integration and analysis.
+Programming Language Choice:
+
+Allow students to choose between Python or Java as their programming language for this assignment.
+Data Source Types:
+
+Instruct students to establish connections with various types of data sources. Specify at least three different types, such as:
+Relational Databases (e.g., MySQL, PostgreSQL)
+NoSQL Databases (e.g., MongoDB, Cassandra)
+Web APIs (e.g., Twitter API, RESTful API)
+Cloud Storage (e.g., AWS S3, Google Cloud Storage)
+Local File Systems (e.g., CSV, JSON)
+Connection and Retrieval Tasks:
+
+Task students with writing Python or Java code to perform the following tasks for each data source:
+Establish a connection to the data source.
+Retrieve metadata about the data source, such as database tables, API endpoints, or cloud storage buckets.
+Retrieve sample data from the data source, such as a few rows of a database table, API responses, or files from cloud storage.
+Code Structure and Documentation:
+
+Encourage students to structure their code in a clear and organized manner.
+Require them to provide comments and documentation explaining the purpose of each section of the code, the data source connection details, and any assumptions made.
+Connection Credentials:
+
+Ensure that students understand the importance of securely handling connection credentials (e.g., usernames, passwords, API keys) and following best practices for credential management.
+Testing and Validation:
+
+Instruct students to test their code for each data source by executing it to establish connections and retrieve metadata or sample data. They should validate the results.
+Report:
+
+Ask students to submit a written report alongside their code. The report should include:
+An overview of the assignment and the choice of programming language.
+Descriptions of the data sources and connection details.
+Code snippets for establishing connections and retrieving data.
+Results and observations from executing the code for each data source.
+Any challenges encountered during the task and how they were addressed.
+Presentation (Optional):
+
+If time permits, students can present their data source connection code and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the data source connection code.
+Clarity and organization of the code.
+Documentation and comments within the code.
+Quality and completeness of the written report.
+Ability to establish connections with different data sources and retrieve metadata or sample data.

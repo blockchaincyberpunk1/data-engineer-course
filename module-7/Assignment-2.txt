@@ -1,0 +1,61 @@
+Data Governance Policy Design
+
+Objective: To understand data governance.
+
+Task:
+
+Introduction to Data Governance:
+
+Provide an introduction to the importance of data governance in organizations and its role in managing and protecting data assets.
+Fictional Organization Scenario:
+
+Describe the scenario: Students are tasked with creating a comprehensive set of data governance policies for a fictional organization named "DataCo."
+Data Governance Policy Document:
+
+Instruct students to create a structured document outlining data governance policies for DataCo. The document should cover the following key areas:
+a. Data Privacy Policy:
+
+Define policies and guidelines for the collection, storage, and handling of personally identifiable information (PII).
+Specify compliance with relevant data protection regulations (e.g., GDPR, CCPA).
+Address consent management and data subject rights.
+b. Data Security Policy:
+
+Establish policies for safeguarding data assets from unauthorized access, breaches, and cyber threats.
+Outline encryption standards, access controls, and security protocols.
+Define incident response procedures in case of data breaches.
+c. Data Access Control Policy:
+
+Define access control policies and procedures, including role-based access.
+Specify who has access to different types of data and under what conditions.
+Address data sharing and collaboration guidelines within and outside the organization.
+d. Data Quality Standards:
+
+Set data quality standards and criteria for data accuracy, completeness, consistency, and timeliness.
+Outline data profiling, cleansing, and validation processes.
+Describe data stewardship roles and responsibilities.
+e. Data Retention and Archiving:
+
+Establish policies for data retention and archiving, including data retention periods.
+Address data disposal and destruction procedures.
+f. Data Governance Framework:
+
+Define the organizational structure for data governance, including roles (e.g., Data Steward, Data Owner) and responsibilities.
+Specify the governance process for decision-making, issue resolution, and policy enforcement.
+Documentation and Rationale:
+
+Require students to provide rationale and explanations for each policy, citing reasons for their design choices.
+Compliance and Audit:
+
+Discuss the importance of compliance and audit mechanisms for ensuring that data governance policies are adhered to. Encourage students to include audit trails and monitoring procedures.
+Presentation (Optional):
+
+If time permits, students can present their data governance policy document to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and comprehensiveness of the data governance policy document.
+Clarity and organization of the policies and explanations.
+Adherence to best practices in data governance.
+Consideration of data privacy, security, access control, and data quality standards.
+Ability to justify policy design choices.

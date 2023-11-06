@@ -1,0 +1,55 @@
+MongoDB Document Creation
+
+Objective: To understand NoSQL document stores, specifically MongoDB.
+
+Task:
+
+Introduction to MongoDB:
+
+Provide an introduction to MongoDB as a NoSQL document database and its significance in modern data storage.
+Database Setup:
+
+Instruct students to set up a MongoDB database either locally or using a cloud-based service like MongoDB Atlas. Ensure they have the necessary credentials and access to the database.
+Document Creation:
+
+Task students with creating a sample MongoDB database and populating it with documents representing fictional data. They can choose a scenario, such as products, customers, or any other relevant data, and create a collection for it.
+MongoDB Shell or Driver:
+
+Allow students to choose between using the MongoDB shell or a MongoDB driver (e.g., PyMongo for Python) to perform the following operations:
+Insert: Insert multiple documents into the collection.
+Update: Modify one or more documents in the collection.
+Query: Write MongoDB queries to retrieve specific data from the collection.
+Sample Document Tasks:
+
+Specify the tasks for creating sample documents, such as:
+Insert a set of product documents with attributes like name, price, and category.
+Update the price of a specific product.
+Write a query to retrieve all products in a particular category.
+Add customer documents with attributes like name, email, and address.
+Write a query to find customers who have made a purchase in the last month.
+Document Validation:
+
+Encourage students to ensure that their documents are well-structured and adhere to a consistent schema, even in a NoSQL database.
+Documentation and Queries:
+
+Ask students to document the MongoDB commands and queries they used to insert, update, and query documents. Include explanations for the purpose of each operation.
+Testing and Validation:
+
+Instruct students to test their MongoDB database by executing the provided queries and validate the query results.
+Report:
+
+Require students to submit a written report alongside their MongoDB documents and queries. The report should include:
+An overview of the assignment and database setup.
+Details about the documents created and the collections used.
+Descriptions of the MongoDB commands and queries applied.
+Query results with sample data or screenshots.
+Any observations, challenges, or lessons learned during the task.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the MongoDB documents and queries.
+Clarity and organization of the MongoDB commands and queries.
+Proper use of MongoDB syntax and techniques.
+Quality and completeness of the written report.
+Ability to apply MongoDB concepts effectively for document creation and manipulation.

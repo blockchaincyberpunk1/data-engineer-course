@@ -1,0 +1,50 @@
+Open-Source Contribution
+
+Objective: To contribute to open-source data engineering projects.
+
+Task:
+
+Introduction to Open-Source Contribution:
+
+Provide an introduction to the significance of open-source software in the data engineering field.
+Emphasize the value of contributing to open-source projects, including skill development, networking, and giving back to the community.
+Selection of Open-Source Data Engineering Project:
+
+Instruct students to explore open-source data engineering projects available on platforms like GitHub. They should choose a project that aligns with their interests and expertise.
+Project Familiarization:
+
+Ask students to familiarize themselves with the chosen open-source project by reviewing its documentation, source code, and existing issues or feature requests.
+Contribution Plan:
+
+Guide students in creating a contribution plan that outlines their intended contributions to the project. They should consider the following:
+Identifying issues or tasks to work on (e.g., bug fixes, new features).
+Understanding the project's coding standards and guidelines.
+Determining the tools and languages used in the project.
+Contributions:
+
+Assign students the task of actively contributing to the chosen open-source project. They can do this by:
+Submitting pull requests to fix bugs or implement new features.
+Participating in project discussions and issue tracking.
+Writing documentation, such as README improvements or code comments.
+Assisting with code reviews for other contributors.
+Documentation of Contributions:
+
+Instruct students to document their contributions, including:
+A summary of the issues or tasks they worked on.
+Details of the changes they made (e.g., code snippets, explanations).
+Links to their pull requests and related discussions.
+Collaboration and Communication:
+
+Encourage students to interact with the project maintainers and other contributors through respectful and constructive communication.
+Code of Conduct and Ethics:
+
+Remind students to adhere to the project's code of conduct and ethical guidelines when contributing to the open-source project.
+Reflection:
+
+Ask students to reflect on their open-source contributions, including the challenges they faced, lessons learned, and the impact of their contributions on the project and community.
+Submission of Contributions Documentation:
+
+Require students to submit their contributions documentation, which should include a summary of their contributions and links to their pull requests and discussions.
+Evaluation:
+
+Assess students' contributions based on the quality, relevance, and impact of their work on the chosen open-source data engineering project.

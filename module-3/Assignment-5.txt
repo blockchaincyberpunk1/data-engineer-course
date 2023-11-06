@@ -1,0 +1,41 @@
+Choose the Right Database
+
+Objective: To analyze use cases for relational and NoSQL databases.
+
+Task:
+
+Introduction to Database Types:
+
+Provide an introduction to relational and NoSQL databases, highlighting their characteristics and strengths.
+Data Storage Scenarios:
+
+Present students with several data storage scenarios, each representing a different use case. Examples of scenarios include:
+Social Media Posts: Storing user-generated content, comments, and likes.
+Financial Transactions: Recording and processing financial transactions for a banking application.
+E-commerce Product Catalogs: Managing product information, pricing, and inventory.
+IoT Sensor Data: Collecting and analyzing data from sensors in a smart city or industrial setting.
+Content Management: Managing articles, images, and multimedia content for a news website.
+Database Selection and Justification:
+
+Task students with recommending whether a relational database (e.g., MySQL, PostgreSQL) or a NoSQL database (e.g., MongoDB, Cassandra) is more suitable for each scenario. They should justify their choices based on the following criteria:
+Data Structure: Analyze the structure of the data to determine if it is highly structured (relational) or semi-structured/unstructured (NoSQL).
+Scalability: Consider the scalability requirements, such as read and write throughput, and whether horizontal scaling is necessary.
+Consistency vs. Flexibility: Assess the need for strict data consistency (relational) versus schema flexibility (NoSQL).
+Query Complexity: Evaluate the complexity of queries and the need for complex joins or aggregations.
+Data Volume: Consider the expected data volume and whether it is suitable for the chosen database type.
+Use Case Examples: Provide real-world examples or case studies that support their recommendations.
+Presentation or Report:
+
+Instruct students to present their recommendations in the form of a presentation or a written report. They should provide clear justifications for their choices and highlight key considerations for each scenario.
+Class Discussion:
+
+Facilitate a class discussion where students can share their recommendations and discuss the advantages and disadvantages of different database types for various use cases.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and rationale of database recommendations.
+Depth of analysis and consideration of relevant criteria.
+Ability to apply knowledge of database types to real-world scenarios.
+Quality of presentation or report.
+Active participation in the class discussion.

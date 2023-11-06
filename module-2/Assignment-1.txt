@@ -1,0 +1,45 @@
+Batch Data Processing with Python
+
+Objective: To understand batch processing concepts.
+
+Task:
+
+Introduction to Batch Data Processing:
+
+Provide an introduction to batch data processing, explaining its significance in data analysis and manipulation.
+Dataset and Requirements:
+
+Share a sample dataset in a common format (e.g., CSV, JSON) with your students. Ensure that the dataset is sufficiently large and contains relevant attributes for processing.
+Specify the requirements for the batch data processing task. For example, you may instruct students to filter specific rows, perform aggregation on certain columns, or calculate summary statistics.
+Python Programming Task:
+
+Instruct students to write a Python program that accomplishes the following tasks:
+Read the provided dataset into memory.
+Apply the specified transformations to the data (e.g., filtering, aggregation, calculations).
+Save the processed data to a new file in a chosen format (e.g., CSV, JSON).
+Code Structure and Documentation:
+
+Encourage students to structure their Python code in a clear and organized manner.
+Require them to provide comments and documentation explaining the purpose of each section of the code.
+Testing and Validation:
+
+Instruct students to test their Python program with the provided dataset and validate the output to ensure that it meets the specified requirements.
+Report:
+
+Ask students to submit a written report alongside their Python code. The report should include:
+An explanation of the problem statement and requirements.
+A description of the data processing steps and transformations applied.
+A discussion of any challenges faced during the task and how they were overcome.
+An analysis of the processed data and its significance (e.g., insights gained, patterns identified).
+Presentation (Optional):
+
+If time permits, students can present their Python program and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the Python program.
+Clarity and organization of the code.
+Documentation and comments within the code.
+Quality and completeness of the written report.
+Ability to apply batch data processing concepts effectively.

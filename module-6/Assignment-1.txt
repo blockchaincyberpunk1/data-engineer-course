@@ -1,0 +1,48 @@
+Star Schema Design
+
+Objective: To understand star schema modeling.
+
+Task:
+
+Introduction to Star Schema:
+
+Provide an introduction to star schema modeling and its significance in designing data warehouses for analytical purposes.
+Fictional Sales Data Warehouse:
+
+Describe the scenario: Students are tasked with designing a star schema for a fictional sales data warehouse. The data warehouse is intended to store and enable analysis of sales-related data, including information about products, customers, sales transactions, and time.
+Star Schema Design Task:
+
+Instruct students to perform the following tasks in the star schema design:
+Identify Fact Table: Choose a fact table that represents the central business process. In this case, it's the sales transactions.
+Design Dimension Tables: Create dimension tables that provide context to the fact table. Dimensions may include Product, Customer, Date/Time, and any other relevant attributes.
+Define Relationships: Establish relationships between the fact table and dimension tables to enable meaningful queries and analyses.
+Define Hierarchies: If applicable, define hierarchies within dimension tables (e.g., product categories, time hierarchies).
+Populate with Sample Data: Populate the fact and dimension tables with sample data to illustrate the structure.
+Benefits of Star Schema:
+
+Instruct students to explain the benefits of using a star schema for analytical purposes. They should discuss advantages such as:
+Simplified Querying: How a star schema simplifies queries and allows for faster data retrieval.
+Enhanced Performance: How it improves query performance for complex analytical tasks.
+Intuitive Structure: How it provides an intuitive structure for business users to navigate data.
+Scalability: How it supports scalability for handling large volumes of data.
+Flexibility: How it allows for easy addition of new dimensions and facts as business requirements evolve.
+Reporting and Analysis Scenarios:
+
+Suggest several reporting and analysis scenarios that students can use to demonstrate the effectiveness of their star schema. For example:
+Calculate total sales revenue by product category for a specific time period.
+Determine the top-selling products for a given year.
+Analyze customer purchase behavior by region.
+Documentation:
+
+Ask students to document their star schema design, including schema diagrams, table definitions, and explanations of relationships.
+Presentation (Optional):
+
+If time permits, students can present their star schema design and its benefits to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and completeness of the star schema design.
+Clarity and organization of the documentation.
+Quality and depth of the explanation of star schema benefits.
+Ability to apply star schema concepts effectively for analytical purposes.

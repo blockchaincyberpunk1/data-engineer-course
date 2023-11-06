@@ -1,0 +1,53 @@
+Cassandra Data Modeling
+
+Objective: To explore NoSQL data modeling in Cassandra.
+
+Task:
+
+Introduction to Cassandra Data Modeling:
+
+Provide an introduction to Apache Cassandra and its significance in NoSQL data modeling, particularly for time-series data.
+Scenario and Data Requirements:
+
+Describe the scenario: Students are tasked with modeling data for a time-series application, such as IoT sensor data, log events, or financial transactions.
+Specify the data requirements, including the types of information to be stored, time-based data points, and any other relevant attributes.
+Data Modeling Task:
+
+Instruct students to create a data model in Apache Cassandra to efficiently store and retrieve time-series data. They should consider the following aspects:
+Table Design: Create one or more tables to represent the time-series data.
+Primary Keys: Define primary keys that support efficient data retrieval based on time or other relevant criteria.
+Clustering Columns: Determine the appropriate clustering columns for sorting data within partitions.
+Data Types: Choose appropriate data types for storing timestamps and other data points.
+Partitioning Strategy: Explain the partitioning strategy used and its rationale (e.g., time-based, entity-based).
+Denormalization: Consider denormalization for optimized queries and data retrieval.
+Sample Data Insertion:
+
+Provide students with sample time-series data points and ask them to insert these data points into their Cassandra data model to validate its effectiveness.
+Querying the Data:
+
+Task students with writing Cassandra queries to retrieve specific time-series data, such as data points within a given time range or data for a particular entity.
+Documentation and Explanations:
+
+Encourage students to document their data model design, including table schemas, primary keys, and clustering columns.
+Ask them to provide explanations for the rationale behind their data modeling choices.
+Testing and Validation:
+
+Instruct students to test their Cassandra data model by executing the provided queries and validating the query results.
+Report:
+
+Require students to submit a written report alongside their Cassandra data model design and queries. The report should include:
+An overview of the assignment and data modeling requirements.
+Details about the Cassandra tables and schema they created.
+Explanations of the primary key design, partitioning strategy, and clustering columns.
+Examples of Cassandra queries applied to retrieve time-series data.
+Query results with sample data or screenshots.
+Any observations, challenges, or lessons learned during the task.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and efficiency of the Cassandra data model.
+Clarity and organization of the Cassandra schema and queries.
+Proper use of Cassandra data modeling techniques.
+Quality and completeness of the written report.
+Ability to apply NoSQL data modeling principles effectively for time-series data.

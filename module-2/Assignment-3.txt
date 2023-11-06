@@ -1,0 +1,45 @@
+Spark Word Count
+
+Objective: To introduce Apache Spark programming.
+
+Task:
+
+Introduction to Apache Spark:
+
+Provide an introduction to Apache Spark and its significance in big data processing and analytics.
+Sample Text Data:
+
+Share a text file containing a sample document or text data with students. Ensure that the text data is suitable for word counting.
+Spark Word Count Task:
+
+Instruct students to implement a word count program using Apache Spark. They should:
+Read the provided text data into an RDD (Resilient Distributed Dataset) or DataFrame.
+Perform word tokenization and preprocessing (e.g., lowercasing, removing punctuation).
+Count the occurrences of each word in the text.
+Display or save the word count results.
+Code Structure and Documentation:
+
+Encourage students to structure their Spark code in a clear and organized manner.
+Require them to provide comments and documentation explaining the purpose of each section of the code, especially when working with Spark transformations and actions.
+Testing and Validation:
+
+Instruct students to test their Spark word count program with the provided text data and validate the word count results.
+Report:
+
+Ask students to submit a written report alongside their Spark code. The report should include:
+An explanation of the problem statement and requirements.
+A description of the Spark programming steps and transformations applied.
+A discussion of any challenges faced during the task and how they were overcome.
+An analysis of the word count results, including the most frequent words in the text.
+Presentation (Optional):
+
+If time permits, students can present their Spark word count program and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the Spark word count program.
+Clarity and organization of the Spark code.
+Documentation and comments within the code.
+Quality and completeness of the written report.
+Ability to apply Apache Spark concepts effectively in a data processing task.

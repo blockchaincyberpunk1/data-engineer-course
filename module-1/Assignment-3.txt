@@ -1,0 +1,40 @@
+Data Lifecycle Diagram
+
+Objective: To visualize the stages of the data lifecycle.
+
+Task:
+
+Data Lifecycle Overview:
+
+Provide an overview of the concept of a data lifecycle. Explain that it encompasses the stages through which data passes from its creation to its final use or disposal.
+Stages of the Data Lifecycle:
+
+Identify and describe the key stages of the data lifecycle: data generation, data collection, data storage, data processing, and data consumption.
+For each stage, explain its significance in the overall data management process.
+Visual Diagram Creation:
+
+Instruct students to create a visual diagram or flowchart that represents the data lifecycle.
+Use appropriate symbols, shapes, and connecting lines to illustrate the flow of data between stages.
+Label each stage clearly and include a brief description or key characteristics.
+Annotations and Descriptions:
+
+Beneath or adjacent to each stage in the diagram, include annotations or descriptions that explain what happens during that stage.
+Describe any key considerations, technologies, or processes associated with each stage.
+Data Example:
+
+Provide a simple example or scenario to demonstrate how data would flow through the various stages of the data lifecycle. This can help students contextualize their diagrams.
+Presentation:
+
+Ask students to present their data lifecycle diagrams to the class or submit them in a digital format (e.g., as an image or PDF).
+During presentations, students should explain their diagram's design choices and how it effectively represents the data lifecycle.
+Peer Review:
+
+Encourage students to review and provide feedback on their peers' diagrams during the presentation phase. This can foster discussion and help students refine their understanding of the data lifecycle.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and comprehensibility of the data lifecycle diagram.
+Accuracy and completeness of the descriptions for each stage.
+Presentation quality and effectiveness in explaining the diagram.
+Thoughtful incorporation of key concepts related to data lifecycle management.

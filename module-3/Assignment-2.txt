@@ -1,0 +1,50 @@
+SQL Queries
+
+Objective: To practice SQL for data retrieval.
+
+Task:
+
+Introduction to SQL Queries:
+
+Provide an introduction to SQL (Structured Query Language) and its significance in data retrieval from relational databases.
+Database Schema:
+
+Share a pre-designed relational database schema with students. You can use a fictional e-commerce website database as an example. The schema should include tables for products, customers, orders, and other relevant entities.
+SQL Query Tasks:
+
+Task students with writing SQL queries to retrieve specific information from the provided database schema. Examples of query tasks include:
+Retrieve a list of all products in the catalog.
+Find the total number of orders placed.
+Get the details of all customers who have made a purchase in the last month.
+Calculate the total sales revenue for a specific product category.
+Find the top-selling products by quantity sold.
+Retrieve a list of customers who have not placed any orders.
+Query Complexity:
+
+Specify the complexity level for each query task, ranging from basic to advanced, to challenge students with a variety of SQL query types.
+SQL Query Submission:
+
+Instruct students to write and submit their SQL queries in a digital format (e.g., as a text document or SQL script).
+Testing and Validation:
+
+Ask students to test their SQL queries against the provided database schema and validate the query results. Ensure that the queries return accurate and meaningful data.
+Report:
+
+Require students to submit a written report alongside their SQL queries. The report should include:
+An overview of the assignment and query tasks.
+The SQL queries they developed to address each task.
+An explanation of the logic and rationale behind each query.
+The actual query results with sample data or screenshots.
+Any observations, challenges, or optimizations they encountered during the task.
+Peer Review (Optional):
+
+If time permits, students can review and provide feedback on their peers' SQL queries. This encourages collaboration and peer learning.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the SQL queries.
+Clarity and organization of the SQL code.
+Proper use of SQL syntax and techniques.
+Quality and completeness of the written report.
+Ability to apply SQL concepts effectively for data retrieval.

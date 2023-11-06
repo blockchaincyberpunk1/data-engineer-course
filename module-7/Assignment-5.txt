@@ -1,0 +1,47 @@
+Metadata Documentation
+
+Objective: To document metadata for data governance.
+
+Task:
+
+Introduction to Metadata Documentation:
+
+Provide an introduction to the importance of metadata documentation in data governance and its role in ensuring data quality and lineage tracking.
+Dataset and Metadata Documentation Task:
+
+Share a dataset with students. The dataset should be in a common format (e.g., CSV, JSON) and represent real or fictional data relevant to a business scenario.
+Instruct students to create comprehensive metadata documentation for the provided dataset. This documentation should include descriptions, data lineage, and annotations for data quality issues.
+Metadata Documentation Components:
+
+Define the components of metadata documentation that students should include:
+a. Data Description: Provide a detailed description of the dataset, including its purpose, source, and relevance.
+b. Data Lineage: Document the source of the data, transformations applied, and any downstream systems or processes that use the data.
+c. Data Quality Annotations: Annotate data quality issues, such as missing values, outliers, or inconsistencies, and describe the impact on data analysis.
+Choice of Tools/Frameworks:
+
+Allow students to choose between using metadata documentation tools (e.g., Apache Ambari, Apache Atlas) or developing custom scripts or documentation templates.
+Documentation Format:
+
+Instruct students to use a structured format for their metadata documentation. This can include text documents, spreadsheets, or structured JSON or XML files.
+Data Lineage Visualization:
+
+Encourage students to visualize data lineage using flowcharts or diagrams to make it easier to understand the data's journey.
+Annotations and Data Quality Reporting:
+
+Require students to include annotations for data quality issues found in the dataset. These annotations should describe the issue, its severity, and potential corrective actions.
+Ask students to include a data quality report summarizing the overall quality of the dataset.
+Testing and Documentation:
+
+Ask students to thoroughly test their metadata documentation approach with the provided dataset and document the process of creating metadata documentation.
+Presentation (Optional):
+
+If time permits, students can present their metadata documentation and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and accuracy of metadata documentation.
+Clarity and organization of data descriptions, data lineage, and data quality annotations.
+Effectiveness in visualizing data lineage.
+Quality of data quality reporting and annotations.
+Documentation and testing of the metadata documentation process.

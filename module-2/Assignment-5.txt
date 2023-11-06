@@ -1,0 +1,51 @@
+Spark Streaming
+
+Objective: To explore stream processing with Apache Spark.
+
+Task:
+
+Introduction to Spark Streaming:
+
+Provide an introduction to Apache Spark Streaming and its significance in real-time data processing and analytics.
+Data Stream Source:
+
+Set up a data stream source for students to use in their Spark Streaming application. This can be a Kafka topic, a socket source, or any other streaming data source.
+Real-Time Stream Processing Task:
+
+Instruct students to build a real-time stream processing application using Apache Spark Streaming. They should:
+Configure Spark Streaming to consume data from the provided data stream source.
+Define and apply windowed computations or operations on the incoming data stream.
+Produce streaming results or aggregations based on the windowed data.
+Types of Stream Processing:
+
+Specify the types of stream processing operations students should perform, such as:
+Windowed Computations: Calculations over a defined time window (e.g., time-based aggregations).
+Filtering: Selecting specific data records from the stream.
+Mapping: Transforming or enriching data within the stream.
+Joining: Combining data from multiple streams if applicable.
+Code Structure and Documentation:
+
+Encourage students to structure their Spark Streaming code in a clear and organized manner.
+Require them to provide comments and documentation explaining the purpose of each section of the code, especially when applying Spark Streaming operations.
+Testing and Validation:
+
+Instruct students to test their Spark Streaming application with the provided data stream source and validate the real-time streaming results.
+Report:
+
+Ask students to submit a written report alongside their Spark Streaming code. The report should include:
+An explanation of the problem statement and requirements.
+A description of the Spark Streaming operations applied, including the rationale behind each operation.
+A discussion of any challenges faced during the task and how they were overcome.
+An analysis of the real-time streaming results and their significance (e.g., insights gained, patterns identified).
+Presentation (Optional):
+
+If time permits, students can present their Spark Streaming application and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the Spark Streaming application.
+Clarity and organization of the Spark Streaming code.
+Documentation and comments within the code.
+Quality and completeness of the written report.
+Ability to apply Apache Spark Streaming concepts effectively in real-time stream processing.

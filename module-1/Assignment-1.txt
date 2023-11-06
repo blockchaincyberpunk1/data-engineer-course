@@ -1,0 +1,41 @@
+Data Engineer Role Analysis
+
+Objective: To understand the role of a Data Engineer.
+
+Task:
+
+Research Responsibilities and Skills:
+
+Research and compile a report on the responsibilities of a Data Engineer. What are the core tasks and duties typically associated with this role?
+Investigate the skills and qualifications that are commonly required for Data Engineer positions. What technical skills, programming languages, and tools are essential?
+Key Tasks of a Data Engineer:
+
+List and describe the key tasks that a Data Engineer performs on a day-to-day basis. How do these tasks contribute to the overall data infrastructure of an organization?
+Real-World Job Postings:
+
+Find at least three real-world job postings for Data Engineer positions. These can be from job search websites, company career pages, or professional networking platforms like LinkedIn.
+Analyze and summarize the common requirements, qualifications, and responsibilities mentioned in these job postings. Are there any trends or patterns?
+Report Compilation:
+
+Compile your findings into a well-structured report. Use appropriate headings, subheadings, and bullet points for clarity.
+Include examples and quotations from your research to support your analysis.
+Be sure to provide proper citations for any sources you reference.
+Presentation:
+
+Prepare a brief presentation summarizing the key points from your report.
+You can use slides, diagrams, or other visual aids to enhance your presentation.
+Practice your presentation skills, and be ready to answer questions from your peers or the instructor.
+Submission:
+
+Submit your report in a digital format, such as a PDF document.
+Upload your presentation materials to the course platform or present them during a class session.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness and accuracy of your research.
+Clarity and organization of the report.
+Insightful analysis of Data Engineer responsibilities and skills.
+Quality and relevance of real-world job postings.
+Quality of presentation materials (if applicable).
+Proper citations and references.

@@ -1,0 +1,54 @@
+Hive Data Analysis
+
+Objective: To understand data querying with Hive.
+
+Task:
+
+Introduction to Hive:
+
+Provide an introduction to Apache Hive and its significance in data querying and analysis in a Hadoop ecosystem.
+Hadoop and Hive Setup:
+
+Ensure that students have access to an Apache Hadoop cluster with Hive installed and properly configured.
+Dataset:
+
+Share a dataset with students in a format such as CSV files. The dataset should contain relevant data for analysis, and it should be suitable for creating an external table in Hive.
+Hive Data Analysis Task:
+
+Instruct students to perform the following tasks using Apache Hive:
+Create an external table in Hive based on the provided dataset.
+Load the data into the external table.
+Write SQL queries to perform data analysis tasks like aggregation, filtering, and sorting.
+SQL Queries:
+
+Task students with writing SQL queries in HiveQL to address specific data analysis tasks. Examples of tasks include:
+Aggregation: Calculate the total, average, minimum, or maximum values of certain columns.
+Filtering: Retrieve rows that meet specific criteria, such as date ranges or conditions.
+Sorting: Sort the data based on one or more columns in ascending or descending order.
+Code Structure and Documentation:
+
+Encourage students to structure their HiveQL queries in a clear and organized manner.
+Require them to provide comments and documentation within the queries, explaining the purpose of each query and any assumptions made.
+Testing and Validation:
+
+Instruct students to test their HiveQL queries on the provided dataset and validate the results of their data analysis tasks.
+Report:
+
+Ask students to submit a written report alongside their HiveQL queries. The report should include:
+An overview of the assignment and Hive setup.
+Descriptions of the dataset and the external table created.
+HiveQL queries for data analysis tasks with explanations.
+Results of the data analysis, including tables or visualizations if applicable.
+Any observations, challenges, or lessons learned during the task.
+Presentation (Optional):
+
+If time permits, students can present their Hive data analysis findings and queries to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the HiveQL queries for data analysis.
+Clarity and organization of the HiveQL code.
+Documentation and comments within the queries.
+Quality and completeness of the written report.
+Ability to apply Hive concepts effectively for data analysis tasks.

@@ -1,0 +1,51 @@
+HDFS File Manipulation
+
+Objective: To understand HDFS (Hadoop Distributed File System).
+
+Task:
+
+Introduction to HDFS:
+
+Provide an introduction to HDFS, explaining its role in distributed data storage and its significance in the Hadoop ecosystem.
+Setup and Configuration:
+
+Ensure that students have access to an HDFS cluster, either locally or in a cloud-based environment. They should have the necessary permissions to perform file operations.
+HDFS File Manipulation Task:
+
+Instruct students to write code in Python or Java to interact with HDFS. They should perform the following file operations:
+Create: Create a new file or directory in HDFS.
+Read: Read the contents of a file from HDFS.
+Update: Update the contents of an existing file in HDFS.
+Delete: Delete a file or directory from HDFS.
+Basic File Operations:
+
+Ask students to implement additional basic file operations in their code, such as:
+List Files: List the files and directories within a specified HDFS directory.
+Check File Status: Retrieve information about a specific file, such as size, modification time, and owner.
+Code Structure and Documentation:
+
+Encourage students to structure their Python or Java code in a clear and organized manner.
+Require them to provide comments and documentation explaining the purpose of each section of the code, especially when interacting with HDFS.
+Testing and Validation:
+
+Instruct students to test their HDFS file manipulation code by creating, reading, updating, and deleting files and directories in HDFS. They should also validate the results of basic file operations.
+Report:
+
+Ask students to submit a written report alongside their code. The report should include:
+An overview of the assignment and HDFS setup.
+A description of the HDFS file manipulation tasks and the code implemented.
+Explanations of the code's logic and how each file operation is performed.
+Test results and validation of file operations.
+Any challenges encountered during the task and how they were addressed.
+Presentation (Optional):
+
+If time permits, students can present their HDFS file manipulation code and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the HDFS file manipulation code.
+Clarity and organization of the code.
+Documentation and comments within the code.
+Quality and completeness of the written report.
+Ability to interact with HDFS and perform basic file operations effectively.

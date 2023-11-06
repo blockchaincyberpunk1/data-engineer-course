@@ -1,0 +1,52 @@
+Database Design and Normalization
+
+Objective: To understand database design and normalization principles.
+
+Task:
+
+Introduction to Database Design and Normalization:
+
+Provide an introduction to the importance of database design and normalization in creating efficient and maintainable database systems.
+Scenario and Requirements:
+
+Describe the scenario: Students are tasked with designing a relational database schema for a fictional online bookstore named "BookZone."
+Specify the requirements for the database schema, including the types of information to be stored, such as books, authors, customers, orders, and inventory.
+Database Design:
+
+Instruct students to design the relational database schema for BookZone. This should include:
+Creating tables for each entity (e.g., books, authors, customers, orders, inventory).
+Defining appropriate primary keys and foreign keys to establish relationships between tables.
+Ensuring that the schema supports the required data integrity constraints.
+Normalization:
+
+Explain the concept of normalization in relational databases and its benefits for data consistency and efficiency.
+Task students with normalizing their database schema to at least the 3rd normal form (3NF).
+Encourage them to identify and resolve any data redundancy issues through normalization.
+Sample Data and Queries:
+
+Provide a sample dataset and a set of sample SQL queries that students can use to test their database schema. These queries should involve data retrieval, insertion, and modification.
+Code and Documentation:
+
+Instruct students to create the SQL script for their database schema and include comments and documentation to explain the purpose of each table, relationship, and constraint.
+Testing and Validation:
+
+Ask students to test their database schema by executing the provided sample queries and validating the results. Ensure that the schema enforces data integrity.
+Report:
+
+Require students to submit a written report alongside their SQL script. The report should include:
+An overview of the problem statement and database requirements.
+A description of the database schema, including tables, keys, relationships, and constraints.
+An explanation of the normalization process and the achieved normal form.
+An analysis of the sample data and query results, with any observations or improvements suggested.
+Presentation (Optional):
+
+If time permits, students can present their database design and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and completeness of the database schema.
+Clarity and organization of the SQL script.
+Proper documentation and comments within the script.
+Quality and completeness of the written report.
+Ability to apply database design and normalization principles effectively.

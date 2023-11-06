@@ -1,0 +1,53 @@
+Hadoop Streaming
+
+Objective: To explore Hadoop Streaming for non-Java programming languages.
+
+Task:
+
+Introduction to Hadoop Streaming:
+
+Provide an introduction to Hadoop Streaming and its significance in allowing non-Java programming languages to interact with Hadoop.
+Hadoop Setup:
+
+Ensure that students have access to an Apache Hadoop cluster, either locally or in a cloud-based environment, and that Hadoop is properly configured.
+Sample Text Data:
+
+Share a text file containing a sample document with students. Ensure that the text data is suitable for word counting and is in a format compatible with Hadoop (e.g., HDFS).
+Hadoop Streaming Task:
+
+Instruct students to use Hadoop Streaming to implement the classic "Word Count" program in a non-Java programming language of their choice (e.g., Python or Ruby). They should create mapper and reducer scripts in their chosen language.
+Mapper and Reducer Scripts:
+
+Task students with developing two separate scripts: a mapper script and a reducer script.
+Mapper Script: The mapper script should read input data, tokenize it into words, and emit key-value pairs for each word (e.g., "word" => 1).
+Reducer Script: The reducer script should receive key-value pairs from the mapper, group them by key (word), and calculate the total word count for each word.
+Hadoop Streaming Execution:
+
+Guide students on how to execute their Hadoop Streaming job using the provided mapper and reducer scripts in their chosen non-Java language.
+Code Structure and Documentation:
+
+Encourage students to structure their mapper and reducer scripts in a clear and organized manner.
+Require them to provide comments and documentation within the scripts, explaining the purpose of each section of the code.
+Testing and Validation:
+
+Instruct students to test their Hadoop Streaming Word Count program by running it on the provided text data and validate the word count results.
+Report:
+
+Ask students to submit a written report alongside their Hadoop Streaming code. The report should include:
+An overview of the assignment and Hadoop setup.
+Descriptions of the mapper and reducer scripts, including code snippets.
+Explanations of the logic behind word counting in their chosen non-Java language.
+Test results and validation of word count results.
+Any challenges encountered during the task and how they were addressed.
+Presentation (Optional):
+
+If time permits, students can present their Hadoop Streaming Word Count program and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the Hadoop Streaming Word Count program.
+Clarity and organization of the mapper and reducer scripts.
+Documentation and comments within the scripts.
+Quality and completeness of the written report.
+Ability to apply Hadoop Streaming concepts effectively in a non-Java programming language.

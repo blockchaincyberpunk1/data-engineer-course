@@ -1,0 +1,50 @@
+Data Transformation
+
+Objective: To explore data transformation techniques.
+
+Task:
+
+Introduction to Data Transformation:
+
+Provide an introduction to data transformation and its significance in data preprocessing and analysis.
+Diverse Dataset:
+
+Share a diverse dataset with students. The dataset should contain messy or unstructured data, which may include missing values, inconsistent formatting, outliers, and other data quality issues. Ensure that the dataset is suitable for various transformation tasks.
+Data Transformation Task:
+
+Instruct students to write code in a programming language of their choice (e.g., Python, R) to perform data transformation on the provided dataset. They should aim to clean, format, and restructure the data to prepare it for integration or analysis.
+Data Transformation Guidelines:
+
+Provide guidelines for data transformation tasks, including:
+Data Cleaning: Identify and handle missing values, duplicates, and outliers.
+Data Formatting: Standardize formats for dates, currencies, and text.
+Data Restructuring: Pivot, reshape, or aggregate data as needed.
+Feature Engineering: Create new features or variables to enhance data analysis.
+Data Validation: Implement checks to ensure data consistency and quality.
+Code Structure and Documentation:
+
+Encourage students to structure their code in a clear and organized manner.
+Require them to provide comments and documentation within the code, explaining the purpose of each transformation step and any assumptions made.
+Testing and Validation:
+
+Instruct students to test their data transformation code on the provided dataset and validate the results. They should ensure that the transformed data meets the desired quality and structure.
+Report:
+
+Ask students to submit a written report alongside their data transformation code. The report should include:
+An overview of the assignment and dataset characteristics.
+Descriptions of the data transformation tasks performed.
+Code snippets for each transformation step with explanations.
+Results and observations from executing the code on the dataset.
+Any challenges encountered during the task and how they were addressed.
+Presentation (Optional):
+
+If time permits, students can present their data transformation code and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and effectiveness of the data transformation code.
+Clarity and organization of the code.
+Documentation and comments within the code.
+Quality and completeness of the written report.
+Ability to perform data cleansing, formatting, and restructuring to prepare the data for integration or analysis.

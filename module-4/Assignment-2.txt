@@ -1,0 +1,45 @@
+MapReduce Word Count
+
+Objective: To introduce MapReduce programming using Apache Hadoop.
+
+Task:
+
+Introduction to MapReduce:
+
+Provide an introduction to the MapReduce programming model and its significance in distributed data processing.
+Hadoop Setup:
+
+Ensure that students have access to an Apache Hadoop cluster, either locally or in a cloud-based environment, and that Hadoop is properly configured.
+Sample Text Data:
+
+Share a text file containing a sample document with students. Ensure that the text data is suitable for word counting and is in a format compatible with Hadoop (e.g., HDFS).
+MapReduce Task:
+
+Instruct students to implement the classic "Word Count" program using Apache Hadoop's MapReduce framework. They should create Map and Reduce functions to count word occurrences in the provided text data.
+Code Structure and Documentation:
+
+Encourage students to structure their MapReduce code in a clear and organized manner.
+Require them to provide comments and documentation explaining the purpose of each section of the code, especially when defining Map and Reduce functions.
+Testing and Validation:
+
+Instruct students to test their MapReduce program by running it on the provided text data and validate the word count results.
+Report:
+
+Ask students to submit a written report alongside their MapReduce code. The report should include:
+An overview of the assignment and Hadoop setup.
+A description of the MapReduce program, including the Map and Reduce functions.
+Explanations of the code's logic and how word counting is performed.
+Test results and validation of word count results.
+Any challenges encountered during the task and how they were addressed.
+Presentation (Optional):
+
+If time permits, students can present their MapReduce word count program and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the MapReduce word count program.
+Clarity and organization of the MapReduce code.
+Documentation and comments within the code.
+Quality and completeness of the written report.
+Ability to apply MapReduce concepts effectively for word counting.

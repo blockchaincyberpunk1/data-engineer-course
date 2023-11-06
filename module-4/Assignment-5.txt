@@ -1,0 +1,52 @@
+Hive UDF Development
+
+Objective: To create custom functions in Hive.
+
+Task:
+
+Introduction to Hive UDFs:
+
+Provide an introduction to Hive User-Defined Functions (UDFs) and their significance in extending Hive's functionality for custom data transformations and analysis.
+Hadoop and Hive Setup:
+
+Ensure that students have access to an Apache Hadoop cluster with Hive installed and properly configured.
+UDF Development Task:
+
+Instruct students to develop a custom Hive User-Defined Function (UDF) in a programming language of their choice. The UDF should perform a specific data transformation or analysis task.
+UDF Development Guidelines:
+
+Provide guidelines for UDF development, including:
+Language Choice: Allow students to choose the programming language for their UDF (e.g., Java, Python, Scala).
+Input and Output: Specify the input parameters and expected output format of the UDF.
+Functionality: Describe the data transformation or analysis task that the UDF should accomplish.
+Error Handling: Encourage error handling and validation within the UDF code.
+UDF Demonstration:
+
+Instruct students to demonstrate the usage of their UDF in Hive queries. They should write HiveQL queries that incorporate their custom UDF to perform data transformations or analyses on a provided dataset.
+Code Structure and Documentation:
+
+Encourage students to structure their UDF code in a clear and organized manner.
+Require them to provide comments and documentation within the code, explaining the purpose of the UDF, input parameters, and expected behavior.
+Testing and Validation:
+
+Instruct students to test their UDF by executing Hive queries that involve their custom function. They should validate the results of the queries.
+Report:
+
+Ask students to submit a written report alongside their UDF code. The report should include:
+An overview of the assignment and Hive setup.
+Descriptions of the UDF's functionality and input/output parameters.
+UDF code with comments and explanations.
+Examples of Hive queries that use the custom UDF.
+Results and observations from executing the queries.
+Presentation (Optional):
+
+If time permits, students can present their custom Hive UDFs and demonstrate their usage in Hive queries to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the custom Hive UDF.
+Clarity and organization of the UDF code.
+Documentation and comments within the UDF code.
+Quality and completeness of the written report.
+Ability to develop and demonstrate a custom Hive UDF for data transformation or analysis.

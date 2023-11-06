@@ -1,0 +1,48 @@
+Snowflake Schema Conversion
+
+Objective: To explore snowflake schema modeling.
+
+Task:
+
+Introduction to Snowflake Schema:
+
+Provide an introduction to snowflake schema modeling and its significance in database design for analytical purposes.
+Existing Star Schema:
+
+Share an existing star schema with students. The star schema should represent a data warehouse structure with fact and dimension tables related in a star-like fashion.
+Snowflake Schema Conversion Task:
+
+Instruct students to perform the following tasks:
+Analyze the existing star schema and identify dimension tables that can be further normalized (i.e., dimension tables with attributes that can be split into separate related tables).
+Convert the identified dimension tables into a snowflake schema structure by creating normalized tables and defining relationships between them.
+Provide reasons and justifications for the conversion, explaining why certain dimensions were chosen for normalization.
+Dimension Normalization:
+
+Explain the concept of dimension normalization and how it differs from the star schema approach. Describe the advantages and disadvantages of each schema type.
+Schema Diagrams:
+
+Ask students to create schema diagrams that illustrate the original star schema and the resulting snowflake schema after conversion.
+Documentation:
+
+Instruct students to document the conversion process, including schema diagrams, table definitions, and explanations for the normalization decisions.
+Benefits and Trade-Offs:
+
+Have students discuss the benefits and trade-offs of using a snowflake schema in comparison to the original star schema. Consider factors such as query performance, storage efficiency, and maintenance.
+Reporting and Analysis Scenarios:
+
+Suggest several reporting and analysis scenarios that students can use to demonstrate the effectiveness of their snowflake schema. For example:
+Calculate total sales revenue by product category for a specific time period.
+Determine the top-selling products for a given year.
+Analyze customer purchase behavior by region.
+Presentation (Optional):
+
+If time permits, students can present their snowflake schema conversion and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and completeness of the snowflake schema conversion.
+Clarity and organization of the documentation.
+Quality of explanations for the normalization decisions.
+Depth of analysis regarding the benefits and trade-offs of snowflake schema.
+Ability to apply snowflake schema concepts effectively in converting a star schema.

@@ -1,0 +1,54 @@
+Data Loading with Python
+
+Objective: To load data into a target system.
+
+Task:
+
+Introduction to Data Loading:
+
+Provide an introduction to data loading and its significance in data integration and migration processes.
+Source Data:
+
+Share a dataset with students in a format such as CSV or JSON. The dataset should serve as the source data that students will load into a target database.
+Target Database Choice:
+
+Allow students to choose a target database system for this assignment. Examples include MySQL, PostgreSQL, SQLite, or any other relational database system.
+Data Loading Task:
+
+Instruct students to write Python code to perform the following data loading tasks:
+Data Extraction: Read data from the provided source dataset (CSV or JSON).
+Data Transformation: Apply basic transformations (e.g., data type conversion, cleaning) as needed.
+Data Loading: Load the transformed data into the selected target database.
+Python Libraries and Modules:
+
+Encourage students to use appropriate Python libraries and modules for data manipulation, extraction, and database connectivity (e.g., Pandas, SQLAlchemy).
+Code Structure and Documentation:
+
+Ensure that students structure their Python code in a clear and organized manner.
+Require them to provide comments and documentation within the code, explaining the purpose of each step in the ETL process.
+Database Connection:
+
+Instruct students to establish a connection to the target database and manage database interactions using Python.
+Testing and Validation:
+
+Instruct students to test their data loading code by executing it to load data into the target database. They should validate the data in the database to ensure successful loading.
+Report:
+
+Ask students to submit a written report alongside their Python code. The report should include:
+An overview of the assignment and the chosen target database.
+Descriptions of the data loading process, including extraction, transformation, and loading steps.
+Code snippets for each step of the data loading process with explanations.
+Results and observations from executing the code.
+Any challenges encountered during the task and how they were addressed.
+Presentation (Optional):
+
+If time permits, students can present their data loading code and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and effectiveness of the Python code for data loading.
+Clarity and organization of the code.
+Documentation and comments within the code.
+Quality and completeness of the written report.
+Ability to perform data extraction, transformation, and loading into a target database using Python.

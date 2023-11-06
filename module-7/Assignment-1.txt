@@ -1,0 +1,45 @@
+Data Validation Script
+
+Objective: To implement data validation.
+
+Task:
+
+Introduction to Data Validation:
+
+Provide an introduction to the importance of data validation in data processing and the role it plays in ensuring data quality.
+Dataset and Data Validation Task:
+
+Share a dataset with students. The dataset should contain a mix of structured and semi-structured data in a common format (e.g., CSV, JSON).
+Instruct students to write a Python or Java script that performs data validation on the provided dataset.
+Data Validation Criteria:
+
+Define the data validation criteria that students should apply. These criteria may include but are not limited to:
+Missing Values: Check for missing values in the dataset and report the rows or columns where they occur.
+Data Types: Validate data types of columns (e.g., numeric, text) and identify any mismatches.
+Outliers: Detect outliers in numeric columns using appropriate statistical methods.
+Consistency Checks: Perform consistency checks (e.g., date ranges, value ranges) specific to the dataset's domain.
+Duplicate Records: Identify and report duplicate records, if applicable.
+Script Development:
+
+Instruct students to write a Python or Java script that implements the data validation criteria. They should include functions or methods for each validation type.
+Validation Report:
+
+Require students to generate a validation report as the output of their script. The report should include:
+Summary of the validation results, including the number of missing values, data type discrepancies, and outliers.
+Detailed information on rows or columns that do not meet the validation criteria.
+Recommendations or actions to address data quality issues.
+Testing and Documentation:
+
+Ask students to thoroughly test their validation script with the provided dataset and document the script's usage, including input parameters and expected output.
+Presentation (Optional):
+
+If time permits, students can present their data validation script and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and completeness of the data validation script.
+Clarity and organization of the validation report.
+Quality and effectiveness of data validation methods.
+Ability to accurately detect and report data quality issues.
+Documentation and testing of the script.

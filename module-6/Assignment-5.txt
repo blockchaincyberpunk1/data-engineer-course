@@ -1,0 +1,53 @@
+ETL for Data Warehousing
+
+Objective: To perform ETL (Extract, Transform, Load) for data warehousing.
+
+Task:
+
+Introduction to ETL for Data Warehousing:
+
+Provide an introduction to the importance of ETL processes in data warehousing and their role in preparing data for analysis.
+Dataset and Data Warehouse:
+
+Share a dataset with students. The dataset should be in a format such as CSV, JSON, or a relational database, and it should represent real or fictional data relevant to the business scenario.
+Instruct students to choose a cloud-based data warehouse platform (e.g., Snowflake, Amazon Redshift, Google BigQuery) for this assignment.
+ETL Pipeline Design Task:
+
+Instruct students to create an ETL pipeline to perform the following tasks:
+Data Extraction: Extract data from the provided dataset.
+Data Transformation: Apply transformations to the data as needed. Transformations may include cleaning, filtering, aggregating, or reshaping the data.
+Data Loading: Load the transformed data into the chosen cloud-based data warehouse.
+Choice of ETL Tools or Scripts:
+
+Allow students to choose between using ETL tools (e.g., Apache NiFi, Apache Talend, Microsoft SSIS) or scripting languages (e.g., Python, SQL) to implement the ETL pipeline. They should justify their choice based on the requirements of the assignment.
+ETL Pipeline Steps:
+
+Require students to document each step of the ETL pipeline, including the logic and transformations applied during extraction and transformation.
+Data Warehouse Schema:
+
+Instruct students to design an appropriate schema in the chosen data warehouse to accommodate the transformed data. They should define tables, columns, and relationships.
+Execution and Testing:
+
+Ask students to execute their ETL pipeline and validate the successful loading of data into the data warehouse.
+They should perform data quality checks and ensure that the data warehouse schema aligns with the transformed data.
+Documentation:
+
+Instruct students to provide comprehensive documentation, including:
+Overview of the assignment and dataset.
+Description of the ETL pipeline design.
+Explanation of transformations and data loading processes.
+Schema design in the data warehouse.
+Results and observations from pipeline execution.
+Any challenges encountered during ETL and how they were addressed.
+Presentation (Optional):
+
+If time permits, students can present their ETL pipeline and findings to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and completeness of the ETL pipeline design.
+Clarity and organization of documentation.
+Quality and effectiveness of data transformations.
+Ability to load data into the chosen cloud-based data warehouse.
+Consideration of data quality and schema design.

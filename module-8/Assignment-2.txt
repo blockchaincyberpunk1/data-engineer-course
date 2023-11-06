@@ -1,0 +1,49 @@
+Cloud Service Exploration
+
+Objective: To explore cloud data services.
+
+Task:
+
+Introduction to Cloud Service Exploration:
+
+Provide an introduction to the importance of hands-on exploration of cloud data services and their role in modern data engineering and analytics.
+Choice of Cloud Provider:
+
+Instruct students to choose a cloud provider for this assignment. Encourage them to select from major cloud providers such as Amazon Web Services (AWS), Google Cloud Platform (GCP), or Microsoft Azure. They should sign up for a free tier or trial account if available.
+Cloud Service Exploration Tasks:
+
+Assign students the following tasks to explore and identify key data-related services and tools within their chosen cloud provider's console:
+a. Data Storage:
+
+Identify and explore data storage services, such as object storage (e.g., Amazon S3, Google Cloud Storage, Azure Blob Storage) and databases (e.g., Amazon RDS, Google Cloud SQL, Azure SQL Database).
+b. Data Processing:
+
+Find and explore data processing services, including batch processing (e.g., AWS Glue, GCP Dataflow, Azure Data Factory) and stream processing (e.g., AWS Kinesis, GCP Dataflow, Azure Stream Analytics).
+c. Data Analytics and Machine Learning:
+
+Discover analytics and machine learning tools (e.g., AWS Redshift, GCP BigQuery, Azure Machine Learning) and explore their features.
+d. Data Visualization:
+
+Identify data visualization and dashboarding tools (e.g., AWS QuickSight, GCP Data Studio, Power BI) and explore their capabilities.
+e. Data Governance and Security:
+
+Find services related to data governance, security, and compliance (e.g., AWS Identity and Access Management, GCP Identity and Access Management, Azure Active Directory).
+Documentation and Exploration Report:
+
+Ask students to document their exploration activities, including the names of services they discovered, their descriptions, and any notable features.
+Encourage students to include screenshots or step-by-step guides for navigating the console.
+Reflection:
+
+Require students to provide a brief reflection on their exploration experience. They should discuss their initial impressions, interesting findings, and any challenges encountered.
+Presentation (Optional):
+
+If time permits, students can present their exploration findings and experiences to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and accuracy of the exploration report.
+Clarity and organization of documentation.
+Depth of exploration into key data-related services and tools.
+Reflection on the exploration experience.
+Ability to present findings effectively (if applicable).

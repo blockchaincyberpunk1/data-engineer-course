@@ -1,0 +1,44 @@
+Data Lake Architecture
+
+Objective: To explore data lake architecture.
+
+Task:
+
+Introduction to Data Lakes:
+
+Provide an introduction to the concept of data lakes and their role in modern data management.
+Explain that data lakes are repositories that store both structured and unstructured data at scale.
+Components of Data Lake Architecture:
+
+Instruct students to research and create a presentation or report that details the key components of data lake architecture.
+Include components such as data sources, data ingestion, data storage, data cataloging, data processing, and data access tools.
+Advantages of Data Lakes:
+
+Ask students to explore and articulate the advantages of using data lakes as a data storage and processing solution.
+Discuss scalability, flexibility, cost-effectiveness, and the ability to store diverse data types.
+Best Practices for Data Lake Implementation:
+
+Provide guidance on best practices for designing and implementing data lake architectures.
+Include considerations for data governance, data quality, security, and metadata management.
+Data Lake vs. Data Warehouse:
+
+Instruct students to compare and contrast data lakes with data warehouses. When are data lakes preferred over data warehouses, and why?
+Provide real-world use cases or scenarios where data lakes are a more suitable choice.
+Case Studies:
+
+Encourage students to include case studies or examples of organizations that have successfully implemented data lake architectures. What challenges did they face, and how did they overcome them?
+Presentation or Report:
+
+Ask students to present their findings in the form of a presentation or a written report. Include visual aids, diagrams, and examples to enhance understanding.
+Q&A and Discussion:
+
+After the presentation or report, facilitate a Q&A session and discussion to allow students to share their insights and address questions from their peers.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Depth and accuracy of information presented.
+Clarity and organization of the presentation or report.
+Insights into the advantages and best practices of data lake architecture.
+Well-supported arguments for when data lakes are preferred over data warehouses.
+Quality of visual aids and examples (if applicable).

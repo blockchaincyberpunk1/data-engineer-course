@@ -1,0 +1,56 @@
+AWS Glue ETL Pipeline
+
+Objective: To build an ETL pipeline using AWS Glue.
+
+Task:
+
+Introduction to AWS Glue ETL:
+
+Provide an introduction to the concept of ETL (Extract, Transform, Load) pipelines and their significance in data processing and integration.
+Introduce AWS Glue as a managed ETL service provided by Amazon Web Services (AWS).
+Data Source and Target Selection:
+
+Instruct students to select a source and target for their ETL pipeline. The source could be data stored in AWS S3, and the target could be AWS Redshift, but other combinations are also acceptable.
+Data Transformation Requirements:
+
+Define specific data transformation requirements that students should implement as part of their ETL pipeline. These requirements may include but are not limited to:
+Data filtering.
+Data cleansing and validation.
+Data aggregation or enrichment.
+Data format conversion.
+AWS Glue ETL Development:
+
+Assign students the task of developing the ETL pipeline using AWS Glue. They should use AWS Glue's ETL development environment and tools.
+Instruct them to create AWS Glue jobs, crawlers, and data catalog entries as needed for their pipeline.
+Data Extraction:
+
+Guide students in configuring the extraction process to retrieve data from the selected source, ensuring proper data schema inference and cataloging.
+Data Transformation:
+
+Describe the data transformation logic students should apply to meet the defined requirements. Encourage them to use AWS Glue's built-in transformation capabilities and custom scripts if necessary.
+Data Loading:
+
+Instruct students on how to configure the loading process to insert or update data in the target storage (e.g., AWS Redshift) while maintaining data integrity.
+Testing and Validation:
+
+Ask students to thoroughly test their ETL pipeline to ensure that data is extracted, transformed, and loaded correctly.
+Emphasize the importance of data validation and error handling.
+Documentation:
+
+Require students to provide comprehensive documentation of their AWS Glue ETL pipeline. Documentation should include:
+Overview of the pipeline and its purpose.
+Description of source and target data structures.
+Details of data transformations.
+Instructions for running and monitoring the ETL job.
+Presentation (Optional):
+
+If time permits, students can present their AWS Glue ETL pipeline and share their experiences with the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and functionality of the AWS Glue ETL pipeline.
+Clarity and organization of documentation.
+Correctness and effectiveness of data transformations.
+Thoroughness of testing and validation.
+Ability to present findings effectively (if applicable).

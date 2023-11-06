@@ -1,0 +1,42 @@
+Metadata Extraction
+
+Objective: To understand metadata extraction.
+
+Task:
+
+Introduction to Metadata Extraction:
+
+Provide an introduction to the importance of metadata in data management and its role in understanding and organizing data assets.
+Dataset and Metadata Extraction Task:
+
+Share a dataset with students. The dataset should be in a common format (e.g., CSV, JSON) and contain a mix of structured and semi-structured data.
+Instruct students to write code (in a programming language of their choice, such as Python or Java) to automatically extract metadata from the provided dataset.
+Metadata Extraction Criteria:
+
+Define the metadata extraction criteria that students should apply. These criteria may include but are not limited to:
+Column Names: Extract and store the names of all columns in the dataset.
+Data Types: Identify and record the data types of each column (e.g., text, numeric, date).
+Data Statistics: Calculate basic statistics for numeric columns, such as mean, median, and standard deviation.
+Data Cardinality: Determine the cardinality (number of unique values) for each column.
+Data Format: Identify any specific data formats (e.g., date formats) used in the dataset.
+Metadata Catalog Creation:
+
+Instruct students to create a metadata catalog or repository that stores the extracted metadata information. This can be in the form of a database, a structured file (e.g., JSON or XML), or any suitable data storage mechanism.
+Code Development:
+
+Require students to write code that performs the metadata extraction based on the defined criteria. They should use programming libraries or frameworks as needed.
+Testing and Documentation:
+
+Ask students to thoroughly test their metadata extraction code with the provided dataset and document how to use the code, including input parameters and expected output.
+Presentation (Optional):
+
+If time permits, students can present their metadata extraction code and the resulting metadata catalog to the class. This allows for peer review and discussion.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and completeness of the metadata extraction code.
+Clarity and organization of the metadata catalog or repository.
+Quality and accuracy of the extracted metadata information.
+Ability to handle various data types and formats.
+Documentation and testing of the code.

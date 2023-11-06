@@ -1,0 +1,47 @@
+Cloud Data Warehouse Setup
+
+Objective: To set up a cloud-based data warehouse.
+
+Task:
+
+Introduction to Cloud Data Warehouses:
+
+Provide an introduction to cloud-based data warehouses and their significance in modern data analytics and business intelligence.
+Choice of Cloud Platform:
+
+Allow students to choose a cloud platform for this assignment, such as Snowflake, Amazon Redshift, Google BigQuery, or Microsoft Azure Synapse Analytics.
+Cloud Data Warehouse Setup Task:
+
+Instruct students to perform the following tasks in setting up a cloud-based data warehouse:
+Create a Data Warehouse: Create a data warehouse instance on the chosen cloud platform.
+Data Loading: Load sample data into the data warehouse. You can provide a dataset or ask students to find a suitable dataset for their scenario.
+SQL Queries: Write SQL queries to retrieve and analyze data from the data warehouse. Encourage students to perform tasks such as filtering, aggregating, and joining data to demonstrate their understanding of SQL.
+SQL Queries and Analysis:
+
+Suggest several SQL queries and analytical tasks that students should perform on the loaded data. For example:
+Calculate total sales revenue by product category.
+Identify the top-selling products.
+Analyze customer behavior, such as purchase patterns and demographics.
+Documentation:
+
+Instruct students to document their cloud data warehouse setup and analysis, including:
+Steps taken to create the data warehouse instance.
+Description of the sample data used.
+SQL queries written for analysis.
+Results and observations from executing the queries.
+Any challenges encountered during the setup and analysis.
+Presentation (Optional):
+
+If time permits, students can present their cloud data warehouse setup and analysis to the class. This allows for peer review and discussion.
+Security and Cost Considerations:
+
+Emphasize the importance of adhering to security best practices and cost management when working with cloud resources. Students should consider access controls, data encryption, and cost monitoring.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and completeness of the cloud data warehouse setup.
+Clarity and organization of the documentation.
+Quality and effectiveness of SQL queries and data analysis.
+Depth of analysis in addressing the assigned tasks.
+Consideration of security and cost management best practices.
